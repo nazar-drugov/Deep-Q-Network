@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Outputs
+videos/
+*.gif
+*.mp4
+
+# Weights & Biases
+wandb/
+
+# IDE / OS
+.idea/
+.DS_Store
+*.swp
+*.swo
