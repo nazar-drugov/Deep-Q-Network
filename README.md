@@ -10,6 +10,6 @@ Key components:
 - DQNTrainer: orchestrates training loop (replay fill, collect, train, target sync)
 
 ### Demo
-https://github.com/nazar-drugov/Deep-Q-Network/blob/main/assets/videos/cartpole_video_1.mp4
+https://raw.githubusercontent.com/nazar-drugov/Deep-Q-Network/main/assets/videos/cartpole_video_1.mp4
 
-https://github.com/nazar-drugov/Deep-Q-Network/blob/main/assets/videos/cartpole_video_2.mp4
+https://raw.githubusercontent.com/nazar-drugov/Deep-Q-Network/main/assets/videos/cartpole_video_2.mp4
